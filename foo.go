@@ -1,4 +1,4 @@
-package golib
+package github.com/cotterjd/golib
 
 import "fmt"
 
